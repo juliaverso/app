@@ -1,5 +1,5 @@
 import os
-from modelos.restaurante import Restaurante
+from restaurante import Restaurante
 
 def exibir_nome():
   print('Ｓａｂｏｒ Ｅｘｐｒｅｓｓ\n')
