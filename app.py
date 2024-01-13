@@ -1,5 +1,7 @@
 import os
 from restaurante import Restaurante
+from cardapio.bebida import Bebida
+from cardapio.prato import Prato
 
 def exibir_nome():
   print('Ｓａｂｏｒ Ｅｘｐｒｅｓｓ\n')
